@@ -1,0 +1,1 @@
+curl --location 'https://www.rova.nl/api/waste-calendar/year?postalcode=8028%20PP&houseNumber=2&year=2024'
